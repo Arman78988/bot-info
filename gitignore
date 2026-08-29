@@ -1,0 +1,10 @@
+# Nichts Geheimes ins Repo
+.env
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
